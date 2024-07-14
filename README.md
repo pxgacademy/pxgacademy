@@ -14,7 +14,7 @@ Skills: HTML / CSS / JavaScript / ReactJS / PHP
 - 📫 How to reach me: pxga.abdullah@hotmail.com 
 
 
-<a href="https://www.facebook.com/pxga.abdullah" target="_blank">Abdullah</a>
+<a href="https://www.facebook.com/pxga.abdullah" target="_blank"><img src="https://pxgacademy.github.io/001_FirstProjects_Good_Food_restaurant/icons/fb.png" alt=""></a>
 
 [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://pxgacademy.github.io/001_FirstProjects_Good_Food_restaurant/icons/fb.png)' alt='github' height='40'>](https://github.com/pxgacademy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pxga.abdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pxgacademy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/myapplectg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@pxgacademy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/pxgacademy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pxgacademy.github.io/005_5thProject_Own_Portfolio/)  
 
