@@ -1,5 +1,3 @@
-![Junior Web Developer](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/444488719_768771605402641_2424607927426800625_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=ZpFjJ3gPNHUQ7kNvgEcz7J_&_nc_ht=scontent.fcgp27-1.fna&oh=00_AYBh0G716lAniWgqd_NfhbuJME3AZq0oVdVFJlCnw1VnuA&oe=66998CEE)
-
 ### Hi there 👋, This is Abdullah
 #### Junior Web Developer
 
