@@ -13,8 +13,8 @@ Skills: HTML / CSS / JavaScript / ReactJS / PHP
 - 💬 Ask me about HTML, CSS and JavaScript 
 - 📫 How to reach me: pxga.abdullah@hotmail.com 
 
-<a href="https://github.com/pxgacademy" target="_blank"><img style="width: 30px; height: 30px" src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sGitHub.png" alt="F"></a>
-<a href="https://www.facebook.com/pxga.abdullah" target="_blank"><img src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sFacebook.png" alt="F"></a>
+<a href="https://github.com/pxgacademy" target="_blank"><img style="width: 48px; height: 48px" src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sGitHub.png" alt="F"></a>
+<a href="https://www.facebook.com/pxga.abdullah" target="_blank"><img style="width: 48px; height: 48px" src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sFacebook.png" alt="F"></a>
 
 
 
