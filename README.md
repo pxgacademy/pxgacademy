@@ -1,3 +1,5 @@
+<img style="width: 48px; height: 48px" src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sGitHub.png" alt="F">
+
 ### Hi there 👋, This is Abdullah
 #### Junior Web Developer
 
