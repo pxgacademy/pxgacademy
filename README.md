@@ -7,6 +7,19 @@ Hi, this is Abdullah, a junior web developer passionate about crafting user-frie
 
 Skills: HTML / CSS / JavaScript / ReactJS / PHP
 
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Tailwind</li>
+  <li>JavaScript</li>
+  <li>MongoDB</li>
+  <li>Express</li>
+  <li>ReactJS</li>
+  <li>NodeJS</li>
+  <li>NextJS</li>
+  <li>MySQL</li>
+</ul>
+
 - 🔭 I’m currently working on Pixel Genius Academy 
 - 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on GitHub 
