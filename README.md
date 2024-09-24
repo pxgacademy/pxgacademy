@@ -1,7 +1,7 @@
 <img src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/444488719_768771605402641_2424607927426800625_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeEwCzdchQ6aoE-Jw9rClalGdPDJrBgvALR08MmsGC8AtEyGj7G-1YDK_XkgwX92CFPR5rdl3VnRtVQ7HfzUA4Qz&_nc_ohc=CwEHqqvQ-YoQ7kNvgGNFlSv&_nc_ht=scontent.fcgp27-1.fna&oh=00_AYB9IfzgR7yX_pozWHcx7sF8_tFWE491TNvkA-loJcBhwg&oe=66F75FAE" alt="F">
 
 <div>
-  <h2 style="text-decoration: none; border: none;">Hi, This is Abdullah</h2>
+  <h2 style="text-decoration:none; border-bottom:none;">Hi, This is Abdullah</h2>
   <h3>Junior Web Developer</h3>
 </div>
 
