@@ -5,9 +5,10 @@
 
 Hi, this is Abdullah, a junior web developer passionate about crafting user-friendly websites. I love diving into code to create interactive and responsive web experiences. Let's connect and collaborate on building awesome projects together!
 
-Skills: HTML / CSS / JavaScript / ReactJS / PHP
+
 
 <ul>
+  <h2>My Skills:</h2>
   <li>HTML</li>
   <li>CSS</li>
   <li>Tailwind</li>
