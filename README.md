@@ -4,7 +4,9 @@
   <h3 style="text-decoration:none; border-bottom:none; margin:0px; color: #00b7ff">Hi, This is Abdullah</h3>
   <h4>Junior Web Developer</h4>
 
-Hi, this is Abdullah, a junior web developer passionate about crafting user-friendly websites. I love diving into code to create interactive and responsive web experiences. Let's connect and collaborate on building awesome projects together!
+<p>
+  Hi, this is Abdullah, a junior web developer passionate about crafting user-friendly websites. I love diving into code to create interactive and responsive web experiences. Let's connect and collaborate on building awesome projects together!
+</p>
 
 
 
