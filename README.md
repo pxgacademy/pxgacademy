@@ -2,9 +2,10 @@
 
 
 
-# 👋 Hi, I'm Abdullah – MERN Stack Web Developer
+# Hi, this is Abdullah – MERN Stack Web Application Developer!
 
-Welcome to my GitHub profile! I’m a passionate **MERN Stack Developer** with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.
+
+Welcome to my GitHub profile! I’m a passionate **MERN Stack Web Application Developer** with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.
 
 ## 💻 Tech Stack:
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React JS, TypeScript, Next JS
