@@ -1,8 +1,8 @@
-<img width="100%" src="https://i.ibb.co.com/LZgGDnh/Git-Hub-Cover.jpg" alt="F">
+<img width="100%" src="https://i.ibb.co.com/ZTsGjSC/Git-Hub-Cover.jpg" alt="F">
 
 
 
-# Hi, this is Abdullah – MERN Stack Web Application Developer!
+# Hi, this is Abdullah \n\n MERN Stack Web Application Developer!
 
 
 Welcome to my GitHub profile! I’m a passionate **MERN Stack Web Application Developer** with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.
