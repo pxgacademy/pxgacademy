@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/LZgGDnh/Git-Hub-Cover.jpg" alt="F">
+<img width="100%" src="https://i.ibb.co.com/LZgGDnh/Git-Hub-Cover.jpg" alt="F">
 
 
 
