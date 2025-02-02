@@ -2,9 +2,7 @@
 
 
 
-# Hi, this is Abdullah, MERN Stack Web Application Developer!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Abdullah)](https://git.io/typing-svg)
+# Hi, this is Abdullah
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MERN+Stack+Web+Application+Developer)](https://git.io/typing-svg)
 
 
