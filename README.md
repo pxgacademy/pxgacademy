@@ -4,6 +4,8 @@
 
 # Hi, this is Abdullah, MERN Stack Web Application Developer!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Shumbul+Arifa)](https://git.io/typing-svg)
+
 
 Welcome to my GitHub profile! I’m a passionate **MERN Stack Web Application Developer** with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.
 
