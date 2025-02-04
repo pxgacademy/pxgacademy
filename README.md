@@ -3,6 +3,17 @@
 
 ###
 
+<h1 align="center">✨ Hi, this is ABDULLAH ✨</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=MERN+Stack+Web+Application+Developer" />
+  </a>
+</p>
+
+<p align="center">Welcome to my GitHub profile! I’m a passionate MERN Stack Web Application Developer with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.</p>
+
+# 
+
 
 
 <h5 align="center">I Love To Code With</h5>
@@ -37,19 +48,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-###
 
-<h1 align="center">✨ Hi, this is ABDULLAH ✨</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=MERN+Stack+Web+Application+Developer" />
-  </a>
-</p>
-
-<p align="center">Welcome to my GitHub profile! I’m a passionate MERN Stack Web Application Developer with a strong focus on building modern, scalable web applications. I specialize in designing user-friendly interfaces and creating robust backend services that drive seamless user experiences.</p>
-
-
-###
 ---
 
 
@@ -118,7 +117,7 @@ Feel free to explore my repositories and check out some of the projects I’ve w
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=pxgacademy" alt="Layout with last medium posts"  />
 </div>
 
 ###
