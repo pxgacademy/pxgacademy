@@ -3,8 +3,7 @@
 <h1 align="left">✨ Hi, I'm ABDULLAH ✨</h1>
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;Full-Stack+JavaScript+Enthusiast;Passionate+Coder+%26+Problem+Solver;Always+Learning+New+Tech!"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;Full-Stack+JavaScript+Enthusiast;Passionate+Coder+%26+Problem+Solver;Always+Learning+New+Tech!"/>
   </a>
 </p>
 
