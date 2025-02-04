@@ -47,6 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxgacademy&layout=compact&langs_count=6&theme=dracula" height="150" alt="Most Used Languages"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pxgacademy&theme=dark)](https://git.io/streak-stats)
+
+
 ---
 
 ## 📌 What I Do
