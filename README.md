@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=MERN+Stack+Web+Application+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;Full-Stack+JavaScript+Enthusiast;Passionate+Coder+%26+Problem+Solver;Always+Learning+New+Tech!"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pxgacademy&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxgacademy&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Most Used Languages"/>
@@ -61,6 +61,15 @@
 ✅ **Design & Optimize User Interfaces** for better user experience.  
 ✅ **Implement Authentication & Security** with Firebase and JWT.  
 ✅ **Contribute to Open-Source Projects** and collaborate with other developers.  
+
+---
+
+💡 **Turning ideas into scalable web applications.**  
+🔥 Passionate **MERN Stack Developer** | **UI/UX Enthusiast** | **Problem Solver**  
+🚀 Always exploring new technologies like **Next.js** & **TypeScript**  
+🤝 Open to collaboration & contributing to open-source projects! 
+
+
 
 ---
 
