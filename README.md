@@ -1,13 +1,13 @@
 <img width="100%" src="https://i.ibb.co.com/ZTsGjSC/Git-Hub-Cover.jpg" alt="GitHub Cover">
 
-<h1 align="left">✨ Hi, I'm ABDULLAH ✨</h1>
+<h1 align="center">✨ Hi, I'm ABDULLAH ✨</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;Full-Stack+JavaScript+Enthusiast;Passionate+Coder+%26+Problem+Solver;Always+Learning+New+Tech!"/>
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   Passionate MERN Stack Web Developer dedicated to building modern, scalable, and user-friendly web applications. 
   I love crafting seamless user experiences while developing powerful backend systems. 
   Coding isn’t just my skill—it’s my passion, and I'm always eager to innovate, learn, and collaborate!
