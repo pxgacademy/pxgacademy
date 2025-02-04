@@ -43,11 +43,11 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxgacademy&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxgacademy&layout=compact&langs_count=6&theme=dracula" height="150" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pxgacademy&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxgacademy&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Most Used Languages"/>
 </div>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pxgacademy&theme=dracula&hide_border=false" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pxgacademy&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
