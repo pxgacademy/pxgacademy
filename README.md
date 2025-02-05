@@ -68,11 +68,25 @@
 🚀 Always exploring new technologies like **Next.js** & **TypeScript**  
 🤝 Open to collaboration & contributing to open-source projects! 
 
+---
 
+## 🌍 Languages
+
+- **English**  
+- **Bangla**  
+- **Hindi**  
+- **Urdu**  
 
 ---
 
 ## 🌍 Let's Connect
+
+### 📞 Contact Me
+
+📧 **Email:** [pxga.abdullah@hotmail.com](mailto:pxga.abdullah@hotmail.com)  
+📱 **Phone:** +880 1871700633  
+
+---
 <p align="left">
   <a href="https://www.linkedin.com/in/pxga-abdullah" target="_blank">
     <img src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sLinkedin.png" width="48px"/>
