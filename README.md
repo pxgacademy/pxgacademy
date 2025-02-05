@@ -97,9 +97,6 @@
   <a href="https://www.reddit.com/user/pxgacademy/" target="_blank">
     <img src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sReddit.png" width="48px"/>
   </a>
-    <a href="https://www.instagram.com/pxgacademy/" target="_blank">
-    <img src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sInstagram.png" width="48px"/>
-  </a>
 </p>
 
 ---
