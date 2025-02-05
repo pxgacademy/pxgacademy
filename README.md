@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co.com/jvcRydZq/Git-Hub-Cover2.jpg">
+<img width="100%" src="https://i.ibb.co.com/V0dM1j8d/Git-Hub-Cover2.jpg">
 
 <h1 align="center">✨ Hi, I'm ABDULLAH ✨</h1>
 
