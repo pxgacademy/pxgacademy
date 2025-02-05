@@ -24,8 +24,9 @@
 
 ---
 
-## 🔥 Tech Stack
-<div align="left">
+
+<h2 align="center">🔥 Tech Stack 🔥</h2>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,firebase,git,github" height="40"/>
 </div>
 
@@ -72,10 +73,14 @@
 
 ## 🌍 Languages
 
-- **English**  
-- **Bangla**  
-- **Hindi**  
-- **Urdu**  
+<table>
+  <tr>
+    <td>English</td>
+    <td>Bangla</td>
+    <td>Hindi</td>
+    <td>Urdu</td>
+  </tr>
+</table>
 
 ---
 
