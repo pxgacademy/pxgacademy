@@ -93,7 +93,7 @@
 
 ---
 <p align="left">
-  <a href="https://www.linkedin.com/in/pxga-abdullah" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-pxga" target="_blank">
     <img src="https://pxgacademy.github.io/Emojis_and_Icons/icons/Stylish_for_DarkBackground/sLinkedin.png" width="48px"/>
   </a>
  
