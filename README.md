@@ -88,8 +88,19 @@
 
 ### 🤝 Contact Me
 
-📧 **Email:** [pxga.abdullah@hotmail.com](mailto:pxga.abdullah@hotmail.com)  
+🌐 **Portfolio:** <a href="https://pxga-abdullah.web.app" target="_blank">https://pxga-abdullah.web.app</a>  
+📧 **Email:** [pxga.abdullah@gmail.com](mailto:pxga.abdullah@gmail.com)  
 📱 **Phone:** +880 1871700633  
+
+````text
+https://pxga-abdullah.web.app
+````
+````text
+pxga.abdullah@gmail.com
+````
+````text
++880 1871700633
+````
 
 ---
 <p align="left">
